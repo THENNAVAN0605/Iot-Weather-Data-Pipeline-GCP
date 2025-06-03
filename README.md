@@ -55,3 +55,4 @@ This project generates its own real-time dataset using an IoT device (Raspberry 
 2. Data flow pipeline script  [data_flow_pipeline.py](https://github.com/THENNAVAN0605/Iot-Weather-Data-Pipeline-GCP/blob/main/data_flow_pipeline.py)
 3. GCP SETUP SCRIPT  [gcp_setup.bash](https://github.com/THENNAVAN0605/Iot-Weather-Data-Pipeline-GCP/blob/main/gcp_setup.bash)
 4. REQUIRED LIBRARIES  [Requiredlibraries.bash](https://github.com/THENNAVAN0605/Iot-Weather-Data-Pipeline-GCP/blob/main/Requiredlibraries.bash)
+5. Big Query Scripts [Big-Query.sql](https://github.com/THENNAVAN0605/Iot-Weather-Data-Pipeline-GCP/blob/main/Big-Query.sql)
